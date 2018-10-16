@@ -6,10 +6,10 @@ Insumos
 
 ### Fermentables
 
-* 5 kg - Maltexco Pale Ale
-* 0.5 kg - Wayerman Cara Munich Tipo 2
-* 0.6 kg - Maltexco Café
-* 0.1 kg - Maltexco Chocolate.(Tostada 900 EBC) En Minicervecería el mínimo de venta son 200gr. 
+* [ ] 5 kg - Maltexco Pale Ale
+* [ ] 0.5 kg - Wayerman Cara Munich Tipo 2
+* [ ] 0.6 kg - Maltexco Café
+* [ ] 0.1 kg - Maltexco Chocolate.(Tostada 900 EBC) En Minicervecería el mínimo de venta son 200gr. 
 
 Total: 6.2kg
 
@@ -19,17 +19,20 @@ Total: 6.2kg
 * 35g 	Cascade  		15 min 	Boil 	
 * 21g 	Kent Golding	15 min 	Boil 
 * 14g|	Kent Golding 5 min 	Boil
-* 14g 	Cascade	5 min 	Boil 
+* 15g 	Cascade	5 min 	Boil 
 
 Totales:
 
-* Kent Golding: 50+21+14=85 grs
-* Cascade: 35+15=50 grs
+* [ ] Kent Golding: 50+21+14=85 grs
+* [ ] Cascade: 35+15=50 grs
 
 
 ### Otros Insumos
-* Safale T-58
-* Irish Moss
+* [ ] Safale T-58 (quizás próxima versión use S-05)
+* [ ] Irish Moss
+* [ ] Limpiador Alcalino
+* [ ] Alcohol para desinfectar
+* [ ] Dextrosa para priming
 
 Mash Guidelines
 ---
