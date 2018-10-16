@@ -22,15 +22,15 @@ Totales:
 
 
 ### Otros Insumos
-* [ ] Limpiador
-* [ ] Alcohol
-* [ ] Dextrosa
+* [ ] Limpiador Alcalino
+* [ ] Alcohol para desinfectar
+* [ ] Dextrosa para priming
 * [ ] Safale S-05
-* [X] Irish Moss
+* [ ] Irish Moss
 
 Mash Guidelines
 ---
 
-* BIAB, Temp: 67 C, Time: 90 min, Amount: 17+15, deben quedar unos 26 litros pre-boil para que al final queden 20 l en el fermentador.
+* BIAB, Temp: 67 C, Time: 90 min, Amount: 17+15, deben quedar unos 26 litros pre-boil para que al final queden 20 litros en el fermentador.
 * BOIL, 60 min.
-* Priming: 20 litros, 2.4 volúmenes.
+* Priming: 2.4 volúmenes.
