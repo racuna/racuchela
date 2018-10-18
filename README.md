@@ -12,9 +12,5 @@ Otros links:
 
 Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by step.md)  porque es cómodo y no necesita tanto equipamiento.
 
-## Recetas
 
-* [Bila Porter](BilaPorterV2.md)
-* [S.Ma.S.H. Cascade](Smash Cascade.md)
-* Angry Old Boy Stout (en planificación)
 
