@@ -10,9 +10,11 @@ Otros links:
 * [Pixelfed](http://pixelfed.social/racuna)
 * [Untappd](http://untappd.com/user/racuna)
 
-Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](brulosophy.com/methods/processes/brew-in-a-bag-biab/)  porque es cómodo y no necesita tanto equipamiento.
+Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by step.md)  porque es cómodo y no necesita tanto equipamiento.
 
 ## Recetas
 
 * [Bila Porter](BilaPorterV2.md)
 * [S.Ma.S.H. Cascade](Smash Cascade.md)
+* Angry Old Boy (en planificación)
+
