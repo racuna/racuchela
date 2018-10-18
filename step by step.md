@@ -1,6 +1,8 @@
-Simplest All-Grain Homebrew Method
+El método más simple de hacer Cerveza Casera
+============
+B.I.A.B. = Brew in a Bag
 
-V.1.3 Cerveza:
+Cerveza:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Preparación
@@ -65,8 +67,8 @@ sea más fácil retirarlos.
 Horas de cada lúpulo:
 a)\_\_\_\_\_\_\_\_/b)\_\_\_\_\_\_\_\_/c)\_\_\_\_\_\_\_\_\_/d)\_\_\_\_\_\_\_\_\_/e)\_\_\_\_\_\_\_\_\_/f)\_\_\_\_\_\_\_\_.
 
-☐ El segundo lúpulo va acompañado con Irish Mosh, un alga que ayuda a
-precipitar los sólidos y que queden en el fondo. (1g por 20lts)
+☐ Cuando falten 15 minutos agregar Irish Mosh, un alga que ayuda a
+precipitar los sólidos y que queden en el fondo. (1g por 20lts). Una alternativa es usar Isinglass como clarificante (ver más abajo)
 
 ☐ Finalizando el hervor esperar 5 minutos. Hacer el Whirpool (10-15
 minutos), generar un remolino para que el los sólidos se junten al
