@@ -18,11 +18,11 @@ Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by 
 * [S.Ma.S.H. Cascade](Smash Cascade.md)
 * Angry Old Boy Stout (en planificación)
 
-## Otros
+## Otros Recursos
 
-* Calcula cuántas botellas te faltan a partir de las que ya tienes: [Calculadora](https://calc.disroot.org/jp8drtfylm)
+* Calcula cuántas botellas te faltan a partir de las que ya tienes: [Inventario](https://calc.disroot.org/jp8drtfylm)
 
-## Reemplazo de maltas y lúpulos equivalentes
+### Reemplazo de maltas y lúpulos equivalentes
 
 Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar ese ingrediente que querías:
 
