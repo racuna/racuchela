@@ -40,4 +40,5 @@ Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar
 
 * Delta Chat: racuna _at_ disroot.org
 * [Demoncrusher](http://demoncrusher.com) Banda thrash metal
-
+* [Untappd](http://untappd.com/user/racuna) (Cuenta personal)
+* [last.fm](http://www.last.fm/es/user/racuna)
