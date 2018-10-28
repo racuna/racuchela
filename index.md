@@ -8,7 +8,8 @@ Otros links:
 
 * [Instagram](http://instagram.com/racunax)
 * [Pixelfed](http://pixelfed.social/racuna)
-* [Untappd](http://untappd.com/user/racuna)
+* [Usuario en Untappd](http://untappd.com/user/racuna) (Cuenta personal)
+* [racuchela en Untappd](https://untappd.com/racuchela)
 
 Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by step.md)  porque es cómodo y no necesita tanto equipamiento.
 
