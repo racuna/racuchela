@@ -8,7 +8,6 @@ Otros links:
 
 * [Instagram](http://instagram.com/racunax)
 * [Pixelfed](http://pixelfed.social/racuna)
-* [Usuario en Untappd](http://untappd.com/user/racuna) (Cuenta personal)
 * [racuchela en Untappd](https://untappd.com/racuchela)
 
 Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by step.md)  porque es cómodo y no necesita tanto equipamiento.
@@ -37,4 +36,8 @@ Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar
 >And then I watch gleefully as they reproduce and multiply to the point they die in their own filth. 
 >I wonder if God will enjoy the apocalypse as much I enjoy beer.
 
-Delta Chat: racuna _at_ disroot.org
+## Cuentas personales
+
+* Delta Chat: racuna _at_ disroot.org
+* [Demoncrusher](http://demoncrusher.com) Banda thrash metal
+
