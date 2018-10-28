@@ -26,8 +26,10 @@ Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by 
 
 Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar ese ingrediente que querías:
 
-* [maltas](https://www.brew.is/files/malt.html)
-* [lúpulos](http://cervecearte.com/wp-content/uploads/TABLA-DE-Lupulos.pdf)
+* [Similitudes entre maltas](https://www.brew.is/files/malt.html)
+* [Similitudes entre lúpulos](http://cervecearte.com/wp-content/uploads/TABLA-DE-Lupulos.pdf)
+
+* Calculadora de Carbonatación: [Beer Priming Calculator](https://www.brewersfriend.com/beer-priming-calculator/)
 
 >As a homebrewer I feel like a god; 
 >I create a perfect environment in which my yeast can thrive for generations, 
