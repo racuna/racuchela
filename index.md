@@ -29,6 +29,7 @@ Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar
 
 * [Similitudes entre maltas](https://www.brew.is/files/malt.html)
 * [Similitudes entre lúpulos](http://cervecearte.com/wp-content/uploads/TABLA-DE-Lupulos.pdf)
+* [Similitudes entre levaduras](https://www.homebrewsupply.com/learn/yeast-comparison-charts.html) 
 
 * Calculadora de Carbonatación: [Beer Priming Calculator](https://www.brewersfriend.com/beer-priming-calculator/)
 
@@ -40,6 +41,8 @@ Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar
 ## Cuentas personales
 
 * Delta Chat: racuna _at_ disroot.org
+* XMPP: racuna@movim.eu
 * [Demoncrusher](http://demoncrusher.com) Banda thrash metal
 * [Untappd](http://untappd.com/user/racuna) (Cuenta personal)
 * [last.fm](http://www.last.fm/es/user/racuna)
+* [carrd](http://racuna.carrd.com)
