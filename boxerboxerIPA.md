@@ -17,7 +17,7 @@ Fermentables
      
 * [ ] Maltexco Pale Ale 5,5 kg   
 * [ ] Carahell 400gr (Plan B: Caramel/Crystal Malt 10L, Caramalt, Carahell, Light Carastan, Carapils) 
-* [ ] Maltexco Munich (PlanB: cualquier Munich)
+* [ ] Maltexco Munich 300gr (PlanB: cualquier Munich)
 * [ ] Maltexco Caramel/Crystal Malt - 35L  100gr (PlanB:  Light Crystal, CaraMunich II, Carastan, Medium Caramel, Caramel Munich 40)
 
 Total granos: 6,300 kg
