@@ -54,3 +54,5 @@ Maceración
 Nombre              Tipo      Cantidad  Temp      Objetivo  Tiempo  
 Conversion          Infusion  16,561 L  71,902 C  65,000 C  2 hr    
 Final Batch Sparge  Infusion  15,880 L  84,095 C  74,000 C  15 min  
+
+Etiqueta: https://cloud.disroot.org/s/8JC48WQx8oqSZ3r
