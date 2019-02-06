@@ -41,8 +41,10 @@ Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar
 
 ## Cuentas personales
 
-* Delta Chat: racuna _at_ disroot.org
-* XMPP: racuna@movim.eu
+* Chat XMPP: 
+    * racuna@movim.eu 
+    * racuna@disroot.org 
+    * racuna@diasp.org
 * [Demoncrusher](http://demoncrusher.com) Banda thrash metal
 * [Untappd](http://untappd.com/user/racuna) (Cuenta personal)
 * [last.fm](http://www.last.fm/es/user/racuna)
