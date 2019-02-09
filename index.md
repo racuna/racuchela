@@ -17,6 +17,7 @@ Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by 
 * [Bila Porter](BilaPorterV2.md)
 * [S.Ma.S.H. Cascade](Smash Cascade.md)
 * [Boxer Boxer IPA](boxerboxerIPA.md)
+* [Triple C IPA](tripleC.md)
 * Angry Old Boy Stout (en planificación)
 
 ## Otros Recursos
