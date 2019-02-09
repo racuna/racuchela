@@ -35,3 +35,5 @@ Mash Guidelines
 * BIAB, Temp: 67 C, Time: 90 min, Amount: 17+15, deben quedar unos 26 litros pre-boil para que al final queden 20 l en el fermentador.
 * BOIL, 60 min.
 * Priming: 20 litros, 2.4 volúmenes.
+
+Label: https://cloud.disroot.org/s/PwSsLCG8ZpJEF99
