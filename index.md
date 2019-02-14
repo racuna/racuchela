@@ -48,5 +48,4 @@ Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar
     * racuna@diasp.org
 * [Demoncrusher](http://demoncrusher.com) Banda thrash metal
 * [Untappd](http://untappd.com/user/racuna) (Cuenta personal)
-* [last.fm](http://www.last.fm/es/user/racuna)
-* [carrd](http://racuna.carrd.com)
+* [bitcoin](https://www.blockchain.com/btc/address/1E9JqQF3iR6gyrecN66rMRB6BP2nre1YLY) Si deseas ayudarme a comprar ingredientes para probar más recetas
