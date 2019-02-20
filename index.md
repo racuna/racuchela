@@ -49,3 +49,10 @@ Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar
 * [Demoncrusher](http://demoncrusher.com) Banda thrash metal
 * [Untappd](http://untappd.com/user/racuna) (Cuenta personal)
 * [bitcoin](https://www.blockchain.com/btc/address/1E9JqQF3iR6gyrecN66rMRB6BP2nre1YLY) Si deseas ayudarme a comprar ingredientes para probar más recetas
+
+
+## Agradecimientos
+
+* ammabily@instagram.com por los ingredientes con lo que hice Bila Porter (edición 16 de febrero de 2019), además de todo su apoyo en el proyecto desde el comienzo
+* dn_mena@instagram.com por su ayuda con los pasos para fabricar cerveza casera
+* cvillarroel, cervecero de Kunstmann por sus sugerencias y recomendaciones de estilos cerveceros
