@@ -55,4 +55,4 @@ Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar
 
 * ammabily@instagram.com por los ingredientes con lo que hice Bila Porter (edición 16 de febrero de 2019), además de todo su apoyo en el proyecto desde el comienzo
 * dn_mena@instagram.com por su ayuda con los pasos para fabricar cerveza casera
-* cvillarroel, cervecero de Kunstmann por sus sugerencias y recomendaciones de estilos cerveceros
+* schoppelier_cervecero@instagram.com, cervecero de Kunstmann por sus sugerencias y recomendaciones de estilos cerveceros
