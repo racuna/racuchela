@@ -14,10 +14,11 @@ Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by 
 
 ## Recetas
 
-* [Bila Porter](BilaPorterV2.md)
-* [S.Ma.S.H. Cascade](Smash Cascade.md)
-* [Boxer Boxer IPA](boxerboxerIPA.md)
-* [Triple C IPA](tripleC.md)
+* [Bila Porter](BilaPorterV2.md): Llegó para quedarse, esta receta es la que más veces he hecho hasta ahora.
+* [S.Ma.S.H. Cascade](Smash Cascade.md): Single MAlt, Single Hop. Fácil de hacer, un tipo de cebada, y un tipo de lúpulo.
+* [Boxer Boxer IPA](boxerboxerIPA.md): Una IPA frutal, con sabor bastante complejo.
+* [Triple C IPA](tripleC.md): Ipa con 3 lúpulos: Columbus, Cascade y Citra. Una IPA bastante cítrica.
+* [HBC-438 Beerminator](beerminator.md): similar a la anterior pero con un lúpulo experimental, menos cítrico, más frutal.
 * Angry Old Boy Stout (en planificación)
 
 ## Otros Recursos
