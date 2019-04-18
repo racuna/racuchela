@@ -47,6 +47,7 @@ Los siguientes no son mantenidos por mi pero son útiles si no pudiste encontrar
     * racuna@movim.eu 
     * racuna@disroot.org 
     * racuna@diasp.org
+* [Chat Keybase](https://keybase.io/racuna)
 * [Demoncrusher](http://demoncrusher.com) Banda thrash metal
 * [Untappd](http://untappd.com/user/racuna) (Cuenta personal)
 * [bitcoin](https://www.blockchain.com/btc/address/1E9JqQF3iR6gyrecN66rMRB6BP2nre1YLY) Si deseas ayudarme a comprar ingredientes para probar más recetas
