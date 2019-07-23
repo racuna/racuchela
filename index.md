@@ -6,7 +6,7 @@ No soy cervecero profesional, sólo es un pasatiempo.
 
 Otros links:
 
-* [Instagram](http://instagram.com/racunax)
+* [Instagram](http://instagram.com/racuchela)
 * [Pixelfed](http://pixelfed.social/racuna)
 * [racuchela en Untappd](https://untappd.com/racuchela)
 
