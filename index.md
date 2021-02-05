@@ -19,7 +19,7 @@ Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by 
 * [Boxer Boxer IPA](boxerboxerIPA.md): Una IPA frutal, con sabor bastante complejo.
 * [Triple C IPA](tripleC.md): Ipa con 3 lúpulos: Columbus, Cascade y Citra. Una IPA bastante cítrica.
 * [HBC-438 Beerminator](beerminator.md): similar a la anterior pero con un lúpulo experimental, menos cítrico, más frutal, con un ligero sabor a maracuyá.
-  * [Beerminator 2: Brewing Day](Beerminator 2.md): Nueva versión con algunas mejoras y cambiando el lúpulo HBC-438 a Mosaic
+* [Beerminator 2 Brewing Day](Beerminator 2.md): Nueva versión con algunas mejoras y cambiando el lúpulo HBC-438 a Mosaic
 * [La Media Marraqueta](marraqueta.md). Mi primer acercamiento a una cerveza de trigo. [etiqueta](https://cloud.disroot.org/s/dyEzN9KCwZaKY3e)
 * [Angry Old Boy Stout](angryoldboy.md). Mi primera stout; mucho lúpulo, tostado y con un pequeño regusto dulzón. [etiqueta](https://cloud.disroot.org/s/Y4tszCLq2dHf38W)
 
