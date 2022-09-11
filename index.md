@@ -22,6 +22,7 @@ Las recetas son para 20 litros. Personalmente utilizo el método [BIAB](step by 
 * [Beerminator 2 Brewing Day](Beerminator 2.md): Nueva versión con algunas mejoras y cambiando el lúpulo HBC-438 a Mosaic
 * [La Media Marraqueta](marraqueta.md). Mi primer acercamiento a una cerveza de trigo. [etiqueta](https://cloud.disroot.org/s/dyEzN9KCwZaKY3e)
 * [Angry Old Boy Stout](angryoldboy.md). Mi primera stout; mucho lúpulo, tostado y con un pequeño regusto dulzón. [etiqueta](https://cloud.disroot.org/s/Y4tszCLq2dHf38W)
+* [Overhand Right Fury IPA](OverhandRightFuryIPA.md) Quise hacer una IPA con un IBU moderado, me estaba pasando. Así que esta debería tener unos 70, aunque en cantidad de alcohol quedó bastante cabezona.
 
 ## Otros Recursos
 
