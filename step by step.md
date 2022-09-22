@@ -40,8 +40,8 @@ un poco, sin quemarse.
 Segundo Mash
 ------------
 
-☐ Poner la bolsa en el fermentador y echarle agua (preferiblemente tibia
-a 78°C) hasta completar los 26.25 litros (14.25L aprox) . Revolver y
+☐ Poner la bolsa en un segundo recipiente (yo uso el mismo fermentador, fijándose de que la llave esté cerrada) y echarle agua (preferiblemente tibia
+a 78°C, aunque según un experimento de Brülosophy, no es necesario mientras el grano venga tibio desde el primer mash) hasta completar los 26.25 litros (14.25L aprox) . Revolver y
 sacar la bolsa de nuevo como si fuera una bolsa de té.
 
 ☐ Vaciar el "té" del fermentador en la olla.
